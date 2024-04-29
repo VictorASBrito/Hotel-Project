@@ -24,8 +24,8 @@ Navegue até o diretório do projeto.
 Compile os arquivos Java: javac *.java.
 Execute o programa: java HotelSimulation.
 ## Autores ✍️
-Gabriel Matias
-Joao Pedro de Alcantra
-Victor
+ - [GabriellMatias]
+ - [Joao Pedro de Alcantra]
+ - [Victor]
 ## Licença ⚖️
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE.md] para detalhes.
